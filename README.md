@@ -13,3 +13,6 @@ Projeto desenvolvido com o intuito de explorar vulnerabilidades em sistemas, no 
 - Método de ataque: Site Cloner
 - Obtendo o endereço da máquina: ifconfig
 - URL para clone: (http://www.facebook.com)
+
+## Resultado do site clonado:
+![Captura de tela 2025-01-06 123011](https://github.com/user-attachments/assets/d60e6d37-193b-40c6-aa4f-7b38409dbea7)
